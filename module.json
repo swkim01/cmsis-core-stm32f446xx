@@ -6,7 +6,7 @@
     "cmsis",
     "stm32f446xx"
   ],
-  "author": "swkim01@gmail.com",
+  "author": "aquilegia",
   "repository": {
     "url": "https://github.com/swkim01/cmsis-core-stm32f446xx.git",
     "type": "git"
