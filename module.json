@@ -4,6 +4,7 @@
   "description": "CMSIS Core Implementation for STM32F446xx",
   "keywords": [
     "cmsis",
+    "stm32f446re",
     "stm32f446xx"
   ],
   "author": "aquilegia",
