@@ -1,0 +1,27 @@
+{
+  "name": "cmsis-core-stm32f446xx",
+  "version": "0.1.0",
+  "description": "CMSIS Core Implementation for STM32F446xx",
+  "keywords": [
+    "cmsis",
+    "stm32f446xx"
+  ],
+  "author": "swkim01@gmail.com",
+  "repository": {
+    "url": "https://github.com/swkim01/cmsis-core-stm32f446xx.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/swkim01/cmsis-core-stm32f446xx",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "extraIncludes": [
+    "cmsis-core-stm32f446xx"
+  ],
+  "dependencies": {
+    "cmsis-core": "*"
+  }
+}
